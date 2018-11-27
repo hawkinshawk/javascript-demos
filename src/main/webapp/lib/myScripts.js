@@ -1,0 +1,1 @@
+alert('hallo aus der js datei!')
